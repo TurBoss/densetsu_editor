@@ -1,0 +1,109 @@
+densetsu_editor.lpi Note: Añadidos defines -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL en opciones personalizadas
+ Progress: Encontrar todos los ficheros unidad
+ : 
+ : *** Convirtiendo ficheros de unidad pertenecientes al proyecto/paquete ***
+main.pas Note: Reemplazada unidad "Windows" con "LCLIntf, LCLType, LMessages" en sección 'uses'.
+ : 
+ : *** Reparando unidades utilizadas y ficheros de formulario ***
+main.pas Note: Propiedad eliminada "ImeName".
+main.pas Note: Propiedad eliminada "TextHeight".
+main.pas Note: Propiedad eliminada "OldCreateOrder".
+main.pas Note: Cambiadas Top coordenada de TButton desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TButton desde "288" hasta "286" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TButton desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TButton desde "8" hasta "6" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TComboBox desde "28" hasta "14" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TComboBox desde "128" hasta "126" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "8" hasta "0" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "128" hasta "126" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "160" hasta "146" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "384" hasta "382" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "160" hasta "146" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "336" hasta "334" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "160" hasta "146" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "288" hasta "286" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "160" hasta "146" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "240" hasta "238" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "160" hasta "146" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "192" hasta "190" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "160" hasta "146" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "144" hasta "142" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "160" hasta "146" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "96" hasta "94" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "160" hasta "146" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "45" hasta "43" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "120" hasta "106" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "384" hasta "382" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "120" hasta "106" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "336" hasta "334" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "120" hasta "106" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "288" hasta "286" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "120" hasta "106" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "240" hasta "238" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "120" hasta "106" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "192" hasta "190" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "120" hasta "106" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "144" hasta "142" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "120" hasta "106" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "96" hasta "94" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "120" hasta "106" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "45" hasta "43" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "80" hasta "66" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "384" hasta "382" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "80" hasta "66" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "336" hasta "334" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "80" hasta "66" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "288" hasta "286" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "80" hasta "66" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "240" hasta "238" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "80" hasta "66" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "192" hasta "190" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "80" hasta "66" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "144" hasta "142" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "80" hasta "66" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "96" hasta "94" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "80" hasta "66" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "45" hasta "43" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "40" hasta "26" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "384" hasta "382" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "40" hasta "26" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "336" hasta "334" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "40" hasta "26" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "288" hasta "286" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "40" hasta "26" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "240" hasta "238" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "40" hasta "26" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "192" hasta "190" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "40" hasta "26" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "145" hasta "143" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "40" hasta "26" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "96" hasta "94" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TSpinEdit desde "40" hasta "26" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TSpinEdit desde "45" hasta "43" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "384" hasta "382" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "336" hasta "334" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "8" hasta "0" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "336" hasta "334" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "288" hasta "286" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "240" hasta "238" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "192" hasta "190" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "145" hasta "143" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "96" hasta "94" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TLabel desde "24" hasta "10" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TLabel desde "45" hasta "43" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TImage desde "151" hasta "137" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TImage desde "10" hasta "8" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TImage desde "112" hasta "98" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TImage desde "10" hasta "8" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TImage desde "72" hasta "58" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TImage desde "10" hasta "8" dentro de TGroupBox.
+main.pas Note: Cambiadas Top coordenada de TImage desde "32" hasta "18" dentro de TGroupBox.
+main.pas Note: Cambiadas Left coordenada de TImage desde "10" hasta "8" dentro de TGroupBox.
+ : Conversion Preparada.

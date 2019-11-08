@@ -1,11 +1,9 @@
 unit main;
 
-{$MODE Delphi}
-
 interface
 
 uses
-  LCLIntf, LCLType, LMessages, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
   Dialogs, StdCtrls, Spin, ExtCtrls;
 
 type
@@ -150,7 +148,7 @@ begin
 
   CloseFile(f);
 end;
-{$R *.lfm}
+{$R *.dfm}
 
 procedure TMainForm.LoadButtonClick(Sender: TObject);
 var
